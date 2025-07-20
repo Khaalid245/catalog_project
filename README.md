@@ -1,7 +1,8 @@
 # 🛍️ Product Catalog API
 
 # LINK TO MY VIDEO ON YOUTUBE
-https://www.youtube.com/watch?v=KaSVfMz2RjE&ab_channel=Khaalidawyuusuf
+
+https://www.youtube.com/watch?v=l9glh6fZ3-w&ab_channel=Khaalidawyuusuf
 
 A RESTful API for managing products, categories, and inventory reports with MongoDB and Swagger documentation.
 
