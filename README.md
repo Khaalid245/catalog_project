@@ -46,7 +46,7 @@ A RESTful API for managing products, categories, and inventory reports with Mong
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/product-catalog-api.git
+   git clone https://github.com/Khaalid245/catalog_project/tree/main/product-catalog-api
    cd product-catalog-api
 
 2. nstall dependencies:
@@ -57,7 +57,8 @@ A RESTful API for managing products, categories, and inventory reports with Mong
     ``` bash
     Create .env file:
     PORT=5000
-    MONGODB_URI=mongodb://localhost:27017/product-catalog
+    MONGODB_URI=mongodb://localhost:27017/product_catalog
+    LOG_LEVEL=debug
 
 4. Start the server:
     ```bash
